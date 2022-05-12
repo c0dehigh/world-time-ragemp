@@ -1,2 +1,1 @@
-require('./time/time')
-require('./weather/weather')
+require("./time/time");
